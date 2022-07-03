@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Disraeli, estudante de engenharia da computação e gamer nas horas vagas... ou codando.!
+## Hey!! My name is zaeli, I'm a computer engineering student and a gamer in my free time... maybe coding.
 <div align="center">
   <a href="https://github.com/Kurumin7-gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kurumin7-gif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
