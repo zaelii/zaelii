@@ -8,7 +8,7 @@
   <img align="center" alt="zaeli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zaeli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zaeli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="zaeli-pic" height="150" style="border-radius:100px;" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif)?width=676&height=676">
+  <img align="right" alt="zaeli-pic" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/444286041726255106/993269307607887982/photoapp.png">
 </div>
   
   ##
