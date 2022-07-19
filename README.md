@@ -1,14 +1,14 @@
 ## Hey!! My name is zaeli, I'm a computer engineering student and a gamer in my free time... maybe coding.
-<div style="display: flex">
+<div align="center">
   <a href="https://github.com/Kurumin7-gif">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kurumin7-gif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumin7-gif&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurumin7-gif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumin7-gif&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="zaeli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zaeli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zaeli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="zaeli-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/444286041726255106/993269307607887982/photoapp.png?width=676&height=676">
+  <img align="right" alt="zaeli-pic" height="150" style="border-radius:100px;" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif)?width=676&height=676">
 </div>
   
   ##
