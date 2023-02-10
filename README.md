@@ -23,3 +23,11 @@
   ![Snake animation](https://github.com/Kurumin7-gif/Kurumin7-gif/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BKurumin7-gif%7D/count.svg" /></p> 
+<br>
+</div> 
