@@ -1,6 +1,6 @@
 ## Hey!! My name is zaeli, I'm a computer engineering student and a gamer in my free time, maybe coding 👨‍💻.
 <div align="center">
-  <a href="https://github.com/Kurumin7-gif">
+  <a href="https://github.com/zaelii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaelii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaelii&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -29,7 +29,7 @@
   <a href = "mailto:disraeli.costa@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/disraeli-filho-543878185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Kurumin7-gif/Kurumin7-gif/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zaelii/zaelii/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -37,6 +37,6 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BKurumin7-gif%7D/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bzaelii%7D/count.svg" /></p> 
 <br>
 </div> 
