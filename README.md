@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Disraeli Filho.
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Disraeli Filho, tenho 22 anos e sou natural de Campina Grande-PB. Concluí o ensino médio no IFPB. Atualmente, estou cursando Engenharia da Computação no IFPB e Concluindo o curso técnico em Manutentnção e Suporte à Informática.
 
